@@ -32,8 +32,6 @@ I love working on coding education, web development, machine learning.
 
 ## 📫 Contact Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [Your Twitter Profile](https://twitter.com/yourusername)
-- Blog: [Your Blog](https://yourblog.com)
+- Blog: (https://blog.naver.com/factory_ksh)
 
 Thanks for visiting my profile! 😄
