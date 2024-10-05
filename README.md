@@ -29,7 +29,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical)
 
-## 📫 연락 방법
+## 📫 링크
 
 - 블로그: [블로그 링크](https://blog.naver.com/factory_ksh)
 
