@@ -17,7 +17,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=ajax&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,7 +24,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 
 
@@ -43,11 +42,11 @@
 |SW 봉사단|포항 대도중학교 Python 수업|2023|
 |[피우다프로젝트] 2024 제13회 SW개발 공모전(환경 문제 해결)|환경 관련 App 개발 1차 탈락|2024|
 |[피우다프로젝트] 2024 제13회 SW개발 공모전(환경 문제 해결)|물 부족 개선 아이디어 1차 탈락|2024|
-|[제 26회 아이디어 유니버시아드 대회] 산업분야 |<진행중>|2024|
-|허위정보 대응 아이디어 공모전(Counter-Disinformation Challenge |<진행중>|2024|
 |해외 겨울 봉사 레바논 |교육 봉사(수학,영어)|2023|
 |해외 여름 봉사 레바논 |IT 봉사(IT 인프라 설치 보조)|2023|
 |000교회|웹페이지 제작|2024|
+|Team Project|실시간 자막 생성 서비스(개발중)|2024|
+|Team Project|LMS(개발중)|2024|
 
 
 
