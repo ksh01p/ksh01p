@@ -43,8 +43,11 @@
 |해외 겨울 봉사 레바논 |교육 봉사(수학,영어)|2023|
 |해외 여름 봉사 레바논 |IT 봉사(IT 인프라 설치 보조)|2023|
 |000교회|웹페이지 제작|2024|
-|Team Project|실시간 자막 생성 서비스(개발중)|2024|
-|Team Project|LMS(개발중)|2024|
+|Team Project|실시간 자막 생성 서비중)|2024|
+|Team Project|LMS|2024|
+|FourCompany|Project1|2025|
+|FourCompany|Project2|2025|
+|FourCompany|Project3|2025|
 
 
 
