@@ -39,19 +39,22 @@
 ## 📫 링크
 - **블로그:** [블로그 링크](https://blog.naver.com/factory_ksh)
 - **오픈소스 프로젝트:** [Notion 링크] https://lac0236.notion.site/forhim
+  
 
 ## 🏆 대표 프로젝트
 
 ### 1. FourCompany - 매출 통합 관리 시스템 (FE+BE)
 - **설명:** 매출 통합 관리 시스템 개발 (1차 완료)
 - **연도:** 2024.12~2025.02
+- **개발 일지:** [Notion 링크] https://lac0236.notion.site/17330561a499809e8243dccb6aac07cf
 
 ### 2. FourCompany - 시딩 관련 프로그램
 - **설명:** 시딩 관련 프로그램 개발 
 - **연도:** 2024.12~ (진행 중)
+  
 
 
-## 👍 봉사
+## 🖥️ 교육 및 봉사
 
 ### 1. SW 봉사단
 - **설명:** 포항 대도중학교에서 Python 수업 진행
@@ -64,6 +67,11 @@
 ### 3. 해외 여름 봉사 레바논
 - **설명:** IT 봉사 (IT 인프라 설치 보조)
 - **연도:** 2023
+
+### 4. Fourcompany
+- **설명:** Spring Boot 강의
+- **연도:** 2025
+- **강의 자료:** : FreeFrom 사용
   
 ## 📊 GitHub Stats
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksh01p&show_icons=true&theme=radical)  
