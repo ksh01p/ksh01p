@@ -66,6 +66,6 @@
 - **연도:** 2023
   
 ## 📊 GitHub Stats
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksh01p&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh01p&layout=compact&theme=radical)
 
