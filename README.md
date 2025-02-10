@@ -1,55 +1,89 @@
-# 안녕하세요! ✝ 개발자 David 입니다! 
+안녕하세요! ✝ 개발자 David 입니다!
 
-저는 서울, 포항에서 소프트웨어를 개발/기획하는 사람입니다.  
-코딩 교육, 웹 개발, 머신러닝에 관심이 많습니다.
+저는 백엔드와 프론트엔드 개발을 함께 다루는 풀스택 개발자입니다. Spring Boot와 Java를 기반으로 웹 서비스를 구축하며, Python과 AI 기술에도 관심이 많습니다. IT를 통해 사회에 긍정적인 영향을 주는 것을 목표로 활동하고 있습니다.
 
-- 📫 저에게 연락하는 방법: william7872ksh@gmail.com
+📫 저에게 연락하는 방법
 
-  
+이메일: william7872ksh@gmail.com
 
-## 🔧 기술 스택
+블로그: 블로그 링크
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=ajax&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🔧 기술 스택
+
+🔹 백엔드
 
 
 
 
-## 📫 링크
-
-- 블로그: [블로그 링크](https://blog.naver.com/factory_ksh)
 
 
-
-## 🏆 Project
-
-|제목|내용|설명|
-|:---|---:|:---:|
-|SW 중심대 한동대학교 1학년 부문 최우수상|Flutter로 학교 소개 App 만들기|2022|
-|SW 봉사단|포항 대도중학교 Python 수업|2023|
-|해외 겨울 봉사 레바논 |교육 봉사(수학,영어)|2023|
-|해외 여름 봉사 레바논 |IT 봉사(IT 인프라 설치 보조)|2023|
-|000교회|웹페이지 제작|2024|
-|[피우다프로젝트] 2024 제13회 SW개발 공모전(환경 문제 해결)|환경 관련 App 개발 1차 탈락|2024|
-|[피우다프로젝트] 2024 제13회 SW개발 공모전(환경 문제 해결)|물 부족 개선 아이디어 1차 탈락|2024|
-|Team Project|실시간 자막 생성 서비스|2024|
-|Team Project|LMS|2024|
-|FourCompany|Project1|2025|
-|FourCompany|Project2|2025|
-|FourCompany|Project3|2025|
+🔹 프론트엔드
 
 
 
-  
-프로필을 방문해 주셔서 감사합니다! 😄
+
+
+
+🔹 DevOps & 기타
+
+
+
+
+
+
+🚀 대표 프로젝트
+
+📌 FourCompany - 매출 통합 관리 시스템
+
+Spring Boot & React 기반의 매출 관리 시스템
+
+📅 진행 기간: 2025
+
+💡 주요 기능: 매출 데이터 통합, 분석 대시보드 제공, REST API 연동
+
+🔗 프로젝트 코드
+
+📌 실시간 자막 생성 서비스
+
+WebRTC 기반의 실시간 음성 자막 변환 프로젝트
+
+📅 진행 기간: 2024
+
+🏆 기술 스택: Python, PyTorch, WebRTC, JavaScript
+
+🔗 프로젝트 코드
+
+📌 LMS 시스템
+
+학습 관리 시스템 (로그인, 강의 등록, 수강 기능 포함)
+
+📅 진행 기간: 2024
+
+💡 주요 기능: 학생 관리, 강의 등록, 성적 관리
+
+🔗 프로젝트 코드
+
+📚 기술 블로그 & 강의 자료
+
+개발 과정에서 겪었던 이슈와 해결 방법을 공유합니다.
+
+Spring Boot API 개발 Best Practice
+
+JavaScript 비동기 처리 정리
+
+Python으로 웹 크롤링하는 방법
+
+🔥 오픈소스 프로젝트
+
+📂 실시간 자막 생성 서비스 - WebRTC 기반의 실시간 음성 자막 변환 프로젝트
+
+📂 LMS 시스템 - 학습 관리 시스템 (로그인, 강의 등록, 수강 기능 포함)
+
+📂 환경 보호 앱 - 환경 문제 해결을 위한 앱 프로젝트
+
+📊 GitHub 활동
+
+
+
+이 파일을 README.md에 복사 & 붙여넣기 하면 바로 깃허브 프로필에서 적용될 수 있습니다! 🚀
+
