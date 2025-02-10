@@ -7,7 +7,9 @@
 
 ## 📫 연락 방법
 - **이메일:** [william7872ksh@gmail.com](mailto:william7872ksh@gmail.com)
-- **블로그:** [블로그 링크](https://blog.naver.com/factory_ksh)
+- **블로그:** [블로그 링크](https://velog.io/@ksh01p/series)
+- **사이트:** [notion 링크](https://lac0236.notion.site/forhim)
+  
   
 
 ## 🔧 기술 스택
@@ -46,8 +48,7 @@
 ### 1. FourCompany - 매출 통합 관리 시스템 (FE+BE)
 - **설명:** 매출 통합 관리 시스템 개발 (1차 완료)
 - **연도:** 2024.12~2025.02
-- **개발 일지:** [Notion 링크] https://lac0236.notion.site/17330561a499809e8243dccb6aac07cf
-
+- **개발 일지:** [블로그 링크] https://velog.io/@ksh01p/series
 ### 2. FourCompany - 시딩 관련 프로그램
 - **설명:** 시딩 관련 프로그램 개발 
 - **연도:** 2024.12~ (진행 중)
