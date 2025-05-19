@@ -1,18 +1,15 @@
-# 안녕하세요! 개발자 David 입니다!
+# Hello! I’m Developer David!
 
-## 간단한 자기소개 (About Me)
-안녕하세요, 저는 **개발자 David**입니다.  
-저는 항상 불가능한 상황을 즐기는 플레이어와 같은 사람입니다. 구현이 안된다, 어렵다 라는 결론을 절대 짓지 않습니다. 해결책은 반드시 있다는 믿음으로 절대로 진행합니다. 
+## About Me
+Hello, I’m **Developer David**.  
+I’m someone who, like a player, enjoys seemingly impossible situations. I never conclude that something can’t be implemented or is too difficult—I proceed with the firm belief that there is always a solution.
 
+## 📫 Contact
+- **Email:** [william7872ksh@gmail.com](mailto:william7872ksh@gmail.com)  
+- **Blog:** [Blog Link](https://velog.io/@ksh01p/series)  
+- **Site:** [Notion Link](https://lac0236.notion.site/forhim)  
 
-## 📫 연락 방법
-- **이메일:** [william7872ksh@gmail.com](mailto:william7872ksh@gmail.com)
-- **블로그:** [블로그 링크](https://velog.io/@ksh01p/series)
-- **사이트:** [notion 링크](https://lac0236.notion.site/forhim)
-  
-  
-
-## 🔧 기술 스택
+## 🔧 Tech Stack
 
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
@@ -39,75 +36,66 @@
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📫 Links
+- **Blog:** [Blog Link](https://blog.naver.com/factory_ksh)  
+- **Open Source Projects:** [Notion Link](https://lac0236.notion.site/forhim)
 
+## 🏆 Featured Projects
 
-## 📫 링크
-- **블로그:** [블로그 링크](https://blog.naver.com/factory_ksh)
-- **오픈소스 프로젝트:** [Notion 링크] https://lac0236.notion.site/forhim
-  
+### 1. Back-End Developer Internship – Sales Integration Management System (FE+BE)
+- **Description:** Developed a sales integration management system (Phase 1 completed)  
+- **Period:** 2024.12–2025.02  
+- **Tech Stack:** Spring Boot, MySQL
 
-## 🏆 대표 프로젝트
+### 2. Back-End Developer Internship – Domestic & International Personal Information Form (FE+BE)
+- **Description:** Created a form to collect consumers’ personal information by selecting both domestic and international account details in one go  
+- **Period:** 2024.12–2025.02  
+- **Dev Diary:** [Blog Link](https://velog.io/@ksh01p/series)  
+- **Tech Stack:** Spring Boot, MySQL
 
+### 3. Undergraduate Industry–Academia Research Project – Seeding Program
+- **Description:** Developed a seeding-related application  
+- **Period:** 2025.03–2025.06  
+- **Tech Stack:** Spring Boot, Spring Security, MySQL
 
-### 1. BE 개발자 인턴십 - 매출 통합 관리 시스템 (FE+BE)
-- **설명:** 매출 통합 관리 시스템 개발 (1차 완료)
-- **기간:** 2024.12~2025.02
-- **기술 스택:** SpringBoot, MySQL
+### 4. HCI Summarization Program
+- **Description:** Built a backend that automatically summarizes and organizes study content using Whisper API and ChatGPT  
+- **Period:** 2025.03–2025.06  
+- **Tech Stack:** Flask
 
-### 2. BE 개발자 인턴십 - 국내외 개인정보 입력 폼 (FE+BE)
-- **설명:** 국내/해외 나라별로 다른 계좌정보들을 모두 한 번에 선택하여 소비자의 개인정보를 입력받는 폼
-- **기간:** 2024.12~2025.02
-- **개발 일지:** [블로그 링크](https://velog.io/@ksh01p/series)
-- **기술 스택:** SpringBoot, MySQL
-
-### 3. 학부생 산학 연구 프로젝트 - 시딩 관련 프로그램
-- **설명:** 시딩(seeding) 관련 프로그램 개발
-- **기간:** 2025.03~2025.06
-- **기술 스택:** SpringBoot, Spring Security, MySQL
-
-### 4. HCI 요약 정리 프로그램
-- **설명:** 스터디 내용(Whisper API + ChatGPT)을 활용해 텍스트를 자동으로 요약·정리해주는 백엔드 개발
-- **기간:** 2025.03~2025.06
-- **기술 스택:** Flask
-
-### 5. SWE 한슐랭 프로그램
-- **설명:** 한동대 카페테리아 및 배달음식 리뷰 플랫폼 개발
-- **기간:** 2025.03~2025.06
-- **기술 스택:** SpringBoot
+### 5. SWE Hansuleang Program
+- **Description:** Developed a review platform for Handong University’s cafeteria and food delivery services  
+- **Period:** 2025.03–2025.06  
+- **Tech Stack:** Spring Boot
 
 ### 6. Global CodeTribe
-- **설명:** 오프라인 환경에서 모바일 기기만으로 코딩할 수 있는 앱 개발
-- **기간:** 2025.03~2025.06
-- **기술 스택:** Android Native
+- **Description:** Created an app enabling coding on mobile devices in offline environments  
+- **Period:** 2025.03–2025.06  
+- **Tech Stack:** Android Native
 
+## 🖥️ Education & Volunteering
 
+### 1. Software Volunteer Group
+- **Description:** Taught Python classes at Pohang Daedo Middle School  
+- **Year:** 2023
 
+### 2. Winter Overseas Volunteer – Lebanon
+- **Description:** Educational volunteer work (math and English lectures)  
+- **Year:** 2023
 
-## 🖥️ 교육 및 봉사
+### 3. Summer Overseas Volunteer – Lebanon
+- **Description:** IT volunteer activities (assisted with IT infrastructure setup)  
+- **Year:** 2023
 
-### 1. SW 봉사단
-- **설명:** 포항 대도중학교에서 Python 수업 진행
-- **연도:** 2023
+### 4. Company Seminar
+- **Description:** Delivered a Spring Boot lecture  
+- **Year:** 2025  
+- **Materials:** FreeForm
 
-### 2. 해외 겨울 봉사 레바논
-- **설명:** 교육 봉사 (수학, 영어 강의)
-- **연도:** 2023
+### 5. Seminar at TTU in Tajikistan
+- **Description:** Lectures on Java and Spring Boot  
+- **Year:** June 2025 (planned)
 
-### 3. 해외 여름 봉사 레바논
-- **설명:** IT 봉사 (IT 인프라 설치 보조)
-- **연도:** 2023
-
-### 4. 회사 세미나
-- **설명:** Spring Boot 강의
-- **연도:** 2025
-- **강의 자료:** : FreeFrom 사용
-
-### 5. 개발 도상국 공과 대학교 세미나
-- **설명:** Java,Spring Boot 강의
-- **연도:** 2025.6(예정)
-
-  
 ## 📊 GitHub Stats
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksh01p&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh01p&layout=compact&theme=radical)
-
