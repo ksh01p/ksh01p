@@ -93,7 +93,7 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 - **Materials:** FreeForm
 
 ### 5. Seminar at TTU in Tajikistan
-- **Description:** Lectures on Java and Spring Boot  
+- **Description:** Lectures on Java and Spring Boot and Python  
 - **Year:** June 2025 (planned)
 
 ## 📊 GitHub Stats
