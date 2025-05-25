@@ -2,7 +2,6 @@
 # 안녕하세요! 개발자 David입니다!
 
 ## About Me  
-## 소개
 
 Hello, I’m **Developer David**.  
 I’m someone who, like a player, enjoys seemingly impossible situations. I never conclude that something can’t be implemented or is too difficult—I proceed with the firm belief that there is always a solution.  
@@ -13,7 +12,6 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ---
 
 ## 📫 Contact  
-## 📫 연락처
 
 - **Email:** [william7872ksh@gmail.com](mailto:william7872ksh@gmail.com)  
 - **Blog:** [Velog Blog](https://velog.io/@ksh01p/series)  
@@ -22,10 +20,8 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ---
 
 ## 🔧 Tech Stack  
-## 🔧 기술 스택
 
-### Programming Languages  
-### 프로그래밍 언어  
+### Programming Languages   
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -33,32 +29,25 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Web Development  
-### 웹 개발  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=ajax&logoColor=white)
-
-### Frameworks & Libraries  
-### 프레임워크 & 라이브러리  
+![AJAX](https://img.shields.io/badge/AJAX-00599C?style=for-the-badge&logo=ajax&logoColor=white)  
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### Database  
-### 데이터베이스  
+### Database    
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Others  
-### 기타  
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📫 Links  
-## 📫 링크
 
 - **Blog:** [Naver Blog](https://blog.naver.com/factory_ksh)  
 - **Open Source Projects:** [Notion Projects](https://lac0236.notion.site/forhim)
@@ -66,7 +55,6 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ---
 
 ## 🏆 Featured Projects  
-## 🏆 주요 프로젝트
 
 ### 1. Internship – Sales Integration Management System (FE+BE)  
 **A system for managing integrated sales information**  
@@ -107,7 +95,6 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ---
 
 ## 🖥️ Education & Volunteering  
-## 🖥️ 교육 & 봉사활동
 
 ### 1. Software Volunteer Group  
 **Taught Python at Pohang Daedo Middle School**  
@@ -137,7 +124,6 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ---
 
 ## 📊 GitHub Stats  
-## 📊 깃허브 통계
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksh01p&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh01p&layout=compact&theme=radical)
