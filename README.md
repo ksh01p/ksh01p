@@ -1,4 +1,4 @@
-# Hello! I’m Developer David! / 안녕하세요! 개발자 David입니다!
+# Hello! I’m Developer David! 
 
 ## About Me  
 
