@@ -6,8 +6,8 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 
 ## 📫 Contact
 - **Email:** [william7872ksh@gmail.com](mailto:william7872ksh@gmail.com)  
-- **Blog:** [Blog Link](https://velog.io/@ksh01p/series)  
-- **Site:** [Notion Link](https://lac0236.notion.site/forhim)  
+- **Blog:** [Velog Blog](https://velog.io/@ksh01p/series)  
+- **Site:** [Notion Portfolio](https://lac0236.notion.site/forhim)
 
 ## 🔧 Tech Stack
 
@@ -27,7 +27,8 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,8 +38,8 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Links
-- **Blog:** [Blog Link](https://blog.naver.com/factory_ksh)  
-- **Open Source Projects:** [Notion Link](https://lac0236.notion.site/forhim)
+- **Blog:** [Naver Blog](https://blog.naver.com/factory_ksh)  
+- **Open Source Projects:** [Notion Projects](https://lac0236.notion.site/forhim)
 
 ## 🏆 Featured Projects
 
@@ -59,9 +60,10 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 - **Tech Stack:** Spring Boot, Spring Security, MySQL
 
 ### 4. HCI Summarization Program
-- **Description:** Built a backend that automatically summarizes and organizes study content using Whisper API and ChatGPT  
+- **Description:** Built a platform that automatically summarizes and organizes study content using Whisper API and ChatGPT.  
+  Implemented both the **backend (Flask)** and the **frontend (React)**, enabling users to interactively record voice input, view summarized content, and receive outputs in diary, summary, or poem formats.  
 - **Period:** 2025.03–2025.06  
-- **Tech Stack:** Flask
+- **Tech Stack:** Flask, React
 
 ### 5. SWE Hansuleang Program
 - **Description:** Developed a review platform for Handong University’s cafeteria and food delivery services  
