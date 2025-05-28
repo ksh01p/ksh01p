@@ -67,7 +67,7 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 - **Period / 기간:** 2024.12–2025.02  
 - **Tech Stack:** Spring Boot, MySQL
 
-### 3. Research – Seeding Program  
+### 3. Undergraduate Project – Seeding Program  
 **Web app for managing seeding strategy & progress**  
 **시딩 관리 및 추적 웹 시스템**  
 - **Period / 기간:** 2025.03–2025.06  
