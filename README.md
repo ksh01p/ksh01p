@@ -81,7 +81,7 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 
 ### 5. SWE Hansuleang  
 **Cafeteria & food delivery review platform**  
-**학식 및 배달 리뷰 플랫폼 개발**  
+**학식 및 배달 리뷰 플랫폼 백엔드 개발**  
 - **Period / 기간:** 2025.03–2025.06  
 - **Tech Stack:** Spring Boot
 
