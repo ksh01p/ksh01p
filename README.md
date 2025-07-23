@@ -3,7 +3,7 @@
 ## About Me  
 
 Hello, I’m **Developer David**.  
-I’m someone who, like a player, enjoys seemingly impossible situations. I never conclude that something can’t be implemented or is too difficult—I proceed with the firm belief that there is always a solution.  
+I’m someone who, like a player, enjoys seemingly impossible situations. I never conclude that something can’t be implemented or is too difficult, I proceed with the firm belief that there is always a solution.  
 
 안녕하세요, 저는 **Developer David**입니다.  
 저는 게임을 즐기듯 불가능해 보이는 상황을 즐기는 개발자입니다. 구현이 불가능하거나 너무 어렵다고 단정 짓지 않고, 항상 해결책이 있다는 확신으로 도전합니다.
