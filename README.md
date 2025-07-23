@@ -115,10 +115,15 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 **Spring Boot 사내 강의 진행**  
 - **Year / 연도:** 2025
 
-### 5. Seminar at TTU in Tajikistan (planned)  
+### 5. Seminar at TTU in Tajikistan  
 **Planned lectures on Java, Spring Boot, and Python**  
-**자바, 스프링부트, 파이썬 관련 국제 세미나(예정)**  
-- **Date / 예정일:** June 2025
+**자바, 스프링부트, 파이썬 관련 국제 세미나**  
+- **Date / 연도:** June 2025
+
+### 6. Seminar at TTU in Tajikistan (planned)  
+**e-gov(표준전자정보프레임워크) Teaching Assistant**  
+**e-gov(표준전자정보프레임워크) 조교**  
+- **Date / 연도:** August 2025
 
 ---
 
