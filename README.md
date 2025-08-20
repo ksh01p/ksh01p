@@ -91,6 +91,11 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 - **Period / 기간:** 2025.03–2025.06  
 - **Tech Stack:** Android Native
 
+### 7. Freelancer&Company Auction Web  
+**Auction for Freelancer and Company**  
+**경매형 프리랜서 구인 구직 플랫폼**  
+- **Period / 기간:** 2025.03–2025.06  
+- **Tech Stack:** Spring Boot, Spring Security
 ---
 
 ## 🖥️ Education & Volunteering  
@@ -120,7 +125,7 @@ I’m someone who, like a player, enjoys seemingly impossible situations. I neve
 **자바, 스프링부트, 파이썬 관련 국제 세미나**  
 - **Date / 연도:** June 2025
 
-### 6. Seminar at TTU in Tajikistan (planned)  
+### 6. Seminar at AATSU in Ethiopia  
 **e-gov(표준전자정보프레임워크) Teaching Assistant**  
 **e-gov(표준전자정보프레임워크) 조교**  
 - **Date / 연도:** August 2025
